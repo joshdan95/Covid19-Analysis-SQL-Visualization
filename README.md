@@ -32,8 +32,8 @@ Percentage Vaccinated
 Tableau link:
   
   https://public.tableau.com/app/profile/joshua4132/viz/Covid-19Analysisjan20-july21/Dashboard1
- 
- ![Dashboard 1 (8)](https://user-images.githubusercontent.com/101450511/168447452-5d1df6c1-10bc-495b-9dfc-2bac2f357504.png)
-  
+
+
+  ![Covid_Viz](https://user-images.githubusercontent.com/101450511/168456540-65a63613-c68c-457d-9b37-94dee6e63949.png)
 
   
