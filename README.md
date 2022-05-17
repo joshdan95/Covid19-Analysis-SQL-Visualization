@@ -12,9 +12,9 @@ TOOLS:
 
 ANALYSIS MADE:
 
-Death rate per cases percentage
+Percentage of death rate per cases 
 
-Cases per population percentage
+Percentage of cases per population
 
 Highest infection rate per population
 
@@ -34,6 +34,6 @@ Tableau link:
   https://public.tableau.com/app/profile/joshua4132/viz/Covid-19Analysisjan20-july21/Dashboard1
 
 
-  ![Covid_Viz](https://user-images.githubusercontent.com/101450511/168456540-65a63613-c68c-457d-9b37-94dee6e63949.png)
 
-  
+  ![Covid19 Dashboard](https://user-images.githubusercontent.com/101450511/168775871-742bfcf4-5c8b-4127-9852-65f0db8fceda.png)
+
